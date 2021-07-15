@@ -17,8 +17,8 @@ LocalSetup
 4. Run the File
     python3 create_playlist.py
 
-      - you'll see Please visit this URL to authorize this application: <some long url>
+      - you'll see Please visit this URL to authorize this application: [Get Oauth](https://developer.spotify.com/console/post-playlists/) and click the Get Token button
       - click on it and log into your Google Account to collect the authorization code
   
-Troubleshooting
+Troubleshooting</br>
   Spotify Oauth token expires very quickly, If you come across a KeyError this could be caused by an expired token. So just refer back to step 3 in   local setup, and generate a new token!
