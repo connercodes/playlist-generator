@@ -1,9 +1,9 @@
 # playlist-generator
 Technologies
- * Youtube Data API v3
- * Spotify Web API
- * Requests Library v 2.22.0
- * Youtube_dl v 2020.01.24
+ * [Youtube Data API v3](https://developers.google.com/youtube/v3)
+ * [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+ * [Requests Library v 2.22.0](https://docs.python-requests.org/en/master/)
+ * [Youtube_dl v 2020.01.24](https://github.com/ytdl-org/youtube-dl/)
 
 LocalSetup
 1. Install All Dependencies
